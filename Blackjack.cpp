@@ -3,7 +3,9 @@
 #include <time.h>
 #include <stdbool.h>
 
-
+// Constants
+#define DECK_SIZE 52
+#define HAND_SIZE 3
 
 // Card structure
 typedef struct {
